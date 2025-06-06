@@ -1,0 +1,8 @@
+{
+  "latest": "1.2.0",
+  "changelog": {
+    "pl": "✔ Dodano historię wersji\n✔ Poprawiono tłumaczenia",
+    "en": "✔ Added version history\n✔ Improved translations"
+  },
+  "download_url": "https://example.com/SamsungOTA.exe"
+}
